@@ -8,8 +8,6 @@ I am an accountant; but during the last year; I leaned towards technology and be
 
 I have always been inclined towards projects that have social impact since I feel committed to better my community and the people that live in it. Therefore, I feel at ease working in teams and leading projects.
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=josemlegal&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=josemlegal&langs_count=5&theme=tokyonight)]()
 
 
 <!---
